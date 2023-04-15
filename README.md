@@ -1,4 +1,4 @@
-# List of new WordPress plugins in the WordPress.org directory.
+# New WordPress plugins
 
 This list contains all new plugins registered in the WordPress directory. It is updated automatically every morning at 6am (CET).
 
