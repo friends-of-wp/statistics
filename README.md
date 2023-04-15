@@ -1,5 +1,7 @@
 # WordPress Related Statistics
 
+Collection of WordPress related statistics. All data is under a creative commons license and can be used by others. Feel free to add other statistics via a pull requests. 
+
 ## Plugins
 
 ### New Plugins
